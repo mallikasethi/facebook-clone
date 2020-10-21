@@ -1,0 +1,10 @@
+/* .widgets {
+    display: inline-table;
+    padding-bottom: 0;
+  }
+   */
+
+.widgets{
+    display: flex;
+    flex-direction: column;
+}

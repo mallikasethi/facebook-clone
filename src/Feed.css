@@ -1,0 +1,10 @@
+/* flex: 1 take as much space as you possibly can */
+.feed {
+    flex: 1;
+    padding: 30px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
